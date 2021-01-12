@@ -1,1 +1,1 @@
-
+print("Kocham Marcelkę!")
